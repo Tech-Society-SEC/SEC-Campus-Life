@@ -10,6 +10,7 @@ public class PlayerMovement : MonoBehaviour
     
     void Start()
     {
+        // Updated for git
         rb = GetComponent<Rigidbody>();
     }
 
