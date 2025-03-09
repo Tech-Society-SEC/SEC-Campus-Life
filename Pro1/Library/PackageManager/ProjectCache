@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638705350517208823
-    m_Hash: 502089538
+      ticks: 638769686772729578
+    m_Hash: 506022240
   m_LockFileStatus:
     m_FilePath: C:/Users/Kirthi/OneDrive/Documents/SEC-Campus-Life/Pro1/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638705350517385758
-    m_Hash: 2400663550
+      ticks: 638769686772741019
+    m_Hash: 536326615
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -120,6 +120,7 @@ m_ResolvedPackages:
     - 2.5.1
     - 2.5.2
     - 2.6.0
+    - 2.7.1
     compatible:
     - 2.2.0
     - 2.3.1
@@ -128,6 +129,7 @@ m_ResolvedPackages:
     - 2.5.1
     - 2.5.2
     - 2.6.0
+    - 2.7.1
     recommended: 2.2.0
     deprecated: []
   dependencies: []
@@ -400,6 +402,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.9
     - 3.2.0-pre.10
     - 3.2.0-pre.11
+    - 3.2.0-pre.12
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     compatible:
@@ -418,6 +421,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.9
     - 3.2.0-pre.10
     - 3.2.0-pre.11
+    - 3.2.0-pre.12
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     recommended: 3.0.9
@@ -563,6 +567,7 @@ m_ResolvedPackages:
     - 1.7.4
     - 1.7.5
     - 1.7.6
+    - 1.7.7
     - 1.8.0
     - 1.8.1
     - 1.8.2
@@ -574,6 +579,7 @@ m_ResolvedPackages:
     - 1.8.8
     compatible:
     - 1.7.6
+    - 1.7.7
     - 1.8.0
     - 1.8.1
     - 1.8.2
@@ -583,7 +589,7 @@ m_ResolvedPackages:
     - 1.8.6
     - 1.8.7
     - 1.8.8
-    recommended: 1.7.6
+    recommended: 1.7.7
     deprecated: []
   dependencies:
   - name: com.unity.modules.audio
@@ -753,19 +759,23 @@ m_ResolvedPackages:
     - 1.7.6
     - 1.7.7
     - 1.7.8
+    - 1.8.0-pre.1
     - 1.8.0
     - 1.9.0
     - 1.9.1
     - 1.9.2
     - 1.9.4
     - 1.9.5
+    - 1.9.6
     compatible:
     - 1.9.1
     - 1.9.2
     - 1.9.4
     - 1.9.5
-    recommended: 1.9.5
-    deprecated: []
+    - 1.9.6
+    recommended: 1.9.6
+    deprecated:
+    - 1.8.0-pre.1
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
