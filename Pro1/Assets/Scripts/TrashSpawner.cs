@@ -28,7 +28,7 @@ public class TrashSpawner : MonoBehaviour
     {
         if (player == null)
         {
-            Debug.LogError("Player Transform is not assigned in TrashSpawner!");
+         
             return Vector3.zero;
         }
 

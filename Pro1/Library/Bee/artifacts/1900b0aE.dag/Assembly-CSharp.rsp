@@ -355,6 +355,7 @@
 "Assets/Scripts/PlayerMovement.cs"
 "Assets/Scripts/TaskManager.cs"
 "Assets/Scripts/TrashCan.cs"
+"Assets/Scripts/TrashItem.cs"
 "Assets/Scripts/TrashSpawner.cs"
 -langversion:9.0
 

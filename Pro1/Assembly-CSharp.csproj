@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\TrashCan.cs" />
+    <Compile Include="Assets\Scripts\TrashItem.cs" />
     <Compile Include="Assets\Scripts\TrashSpawner.cs" />
     <Compile Include="Assets\Scripts\TaskManager.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />

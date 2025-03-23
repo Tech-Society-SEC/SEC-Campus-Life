@@ -5,8 +5,7 @@ public class TrashCan : MonoBehaviour
 {
     public static TrashCan instance;
     public GameObject taskPanel;  // Reference to Task Panel
-    public Text taskProgressText;
-    public Text pointsText;
+
 
     private void Awake()
     {

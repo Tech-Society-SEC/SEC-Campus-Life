@@ -30,7 +30,7 @@ public class PlayerMovement : MonoBehaviour
 
         float movementDirectionY = moveDirection.y;
 
-        // 🔥 Fix: Inverted Forward Movement (moveZ is negated)
+        // Fix: Inverted Forward Movement (moveZ is negated)
         moveDirection = (-transform.forward * moveZ + transform.right * moveX) * moveSpeed;
 
         // Jumping
